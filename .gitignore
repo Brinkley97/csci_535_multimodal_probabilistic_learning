@@ -1,5 +1,8 @@
 
 .DS_Store
-datasets/
+
 *.zip
+*.wav
+
 datasets/
+class_examples/

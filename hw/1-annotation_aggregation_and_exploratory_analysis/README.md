@@ -9,4 +9,4 @@
 - You can "Restart Kernel and Run All Cells..." which will show the outputs for the above tasks. 
 - For task 1, you will find "test_..." variables. You can ignore those as I created a sample set to manually ensure the correctness of my Fleiss' kappa calculations. 
 - For task 3, I'm using r and the library called rpy2 to communicate my r script with python. Within the notebook, r is referencing the "ttest.r" script to calculate the Student t-test. 
-- You can also navigate to the datasets/ipd_data/ to see the datasets
+- Email me at dbrinkle@usc.edu (dbrinkley at usc.edu) to request the dataset

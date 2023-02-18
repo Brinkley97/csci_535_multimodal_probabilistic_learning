@@ -1,5 +1,5 @@
 # csci_535_multimodal_probabilistic_learning
- USC Class Projects : Multimodal Probabilistic Learning of Human Communication
+ USC Class : Multimodal Probabilistic Learning of Human Communication
 
 ## HWs 
 
@@ -17,3 +17,9 @@
 - Models and algorithms I come across WRT to this course
 
 ---
+
+## Misc
+
+- [Summary of Lecture Notes by Topic](https://detraviousjbrinkley.notion.site/A-Survey-of-Multimodal-Probabilistic-Learning-for-Human-Communication-and-Emotion-Recognition-d40cab0081024276b876ae0de4204dc7)
+- [Collection of Papers, Datasets, Repos, Labs](https://detraviousjbrinkley.notion.site/Collection-of-Papers-Datasets-Repos-Labs-for-exploring-a-project-for-CSCI-535-ba3e7f29268a44558e1098cf83e73f5c)
+- [Paper Discussions + Q&A](https://detraviousjbrinkley.notion.site/535-Readings-38559bd46488407282981574f2a4507d)

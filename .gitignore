@@ -6,3 +6,4 @@
 
 datasets/
 class_examples/
+*.pyc

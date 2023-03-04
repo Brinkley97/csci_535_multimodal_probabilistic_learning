@@ -8,5 +8,5 @@ datasets/
 class_examples/
 *.pyc
 git_lfs/
-OpenFace/
+OpenFace1/
 opensmile/

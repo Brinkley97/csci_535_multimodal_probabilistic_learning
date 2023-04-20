@@ -9,6 +9,10 @@ class_examples/
 *.pyc
 git_lfs/
 OpenFace1/
-opensmile/
+
 misc/
 play/vit-base-beans/
+opensmile/
+open_source_modes/opensmile/
+open_source_models/fea_tool/
+open_source_models/pytorch-vit/
